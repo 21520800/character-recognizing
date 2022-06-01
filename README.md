@@ -1,4 +1,4 @@
-# CharRecognizer
+# Character Recognizing
 Character Recognition using an artificial neural network. Network is trained for 26 characters. Implemented in C++ and Magick++ API is used for pixel manipulation.
 
 ### Neural Network
